@@ -17,7 +17,7 @@ namespace EF_test
         {
             CustomersWithNameLongerThan25Characters();
         }
-
+        /
         static void CustomersWithNameLongerThan25Characters()
         {
             using (var dbconn = new CustomersDB())
