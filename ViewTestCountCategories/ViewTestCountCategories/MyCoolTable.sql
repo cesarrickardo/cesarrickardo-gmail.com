@@ -3,3 +3,4 @@
 	[MyCoolID] INT NOT NULL PRIMARY KEY IDENTITY, 
     [CoolTitle] NVARCHAR(25) NULL
 )
+//
